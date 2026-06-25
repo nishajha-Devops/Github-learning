@@ -1,4 +1,0 @@
-trigger: none
-pool: zelectric-pool
-steps:
-  - task:
